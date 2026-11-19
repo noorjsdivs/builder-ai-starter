@@ -12,7 +12,7 @@ typing every file and understanding every line.
 
 **[▶ Watch the course](https://youtu.be/eLkdlGRQLgQ)** ·
 **[📝 Read the article](https://medium.com/@reactbd/next-js-developers-can-build-an-n8n-style-agent-builder-the-compiler-is-125-lines-4d0a51f21c00)** ·
-**[⚡ Get the full source code](https://buymeacoffee.com/reactbd/extras)** ·
+**[⚡ Get the full source code](https://buymeacoffee.com/reactbd/e/599939)** ·
 **[🌐 reactbd.com](https://reactbd.com)**
 
 </div>
@@ -158,7 +158,7 @@ Every chapter links to where it starts in the video.
 The course is free and shows every line. If you'd rather start from the finished app, or want a reference to compare
 against while you build, the full source code is available in ReactBD's shop.
 
-| | This starter (free) | [Full source code](https://buymeacoffee.com/reactbd/extras) |
+| | This starter (free) | [Full source code](https://buymeacoffee.com/reactbd/e/599939) |
 | --- | :---: | :---: |
 | The 9 h 42 min course | ✅ | ✅ |
 | The files you copy (icon, photos) | ✅ | ✅ |
@@ -169,7 +169,7 @@ against while you build, the full source code is available in ReactBD's shop.
 | `.env.example` with every key and where to get it (no secrets included) | | ✅ |
 | Runtime tests (`pnpm test:runtime`) | you type them with the course | ✅ |
 
-**[⚡ Get the full source code →](https://buymeacoffee.com/reactbd/extras)**
+**[⚡ Get the full source code →](https://buymeacoffee.com/reactbd/e/599939)**
 
 ---
 
